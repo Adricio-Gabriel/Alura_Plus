@@ -155,7 +155,7 @@ body {
 }
 
 .container__botao:hover {
-    background-color: orangered;
+    background-color: rgb(0, 217, 255);
     color: var(--cor-de-fundo);
 }
 
